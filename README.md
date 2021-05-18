@@ -1,1 +1,2 @@
-# Light-Family-Message
+# Elenore
+Elenore - Multi-use Discord Bot.
